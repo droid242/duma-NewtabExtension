@@ -65,3 +65,12 @@ img.gomb {
 img:hover.gomb {
 	background-image: url(http://droid242.github.com/duma/pic/gomb_hover.png);
 }
+
+.original-newtab {
+  position: absolute;
+  top: 35px;
+  right: 10px;
+  font-size: 0.5em;
+  color: white;
+  text-decoration: none;
+}
