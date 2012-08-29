@@ -7,6 +7,9 @@ var reloadContent = function() {
 };
 
 jQuery(function() {
+  jQuery('.original-newtab').click(function() {
+    chrome.tabs.update({url:"chrome-internal://newtab/"});
+  });
   jQuery("#changePanel").click(reloadContent);
   reloadContent();
   // auto_refresh = setInterval(reloadContent, 10000);
