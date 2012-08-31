@@ -1,0 +1,16 @@
+{
+  "name": "droID242 duma newTab",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "description": "Új fül nézet a 'droID242 duma page' oldalhoz.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+      "128": "icon_128.png"
+   },
+  "permissions": [
+    "unlimitedStorage","tabs","http://droid242.github.com/duma/pic/*"
+  ],
+  "homepage_url": "http://droid242.github.com/duma/"
+}
