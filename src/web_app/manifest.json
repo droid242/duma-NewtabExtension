@@ -12,7 +12,7 @@
       "128": "icon_128.png"
    },
   "permissions": [
-    "unlimitedStorage","tabs","http://droid242.github.com/duma/pic/*"
+    "unlimitedStorage","tabs","http://droid242.github.com/duma/*"
   ],
   "homepage_url": "http://droid242.github.com/duma/"
 }
