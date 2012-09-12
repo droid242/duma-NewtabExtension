@@ -1,0 +1,76 @@
+body {
+  background-image: url(../image/hatter.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  margin: 0px 0px 0px 0px;
+  color: #ffffff;
+  font-family: "erasdust";
+  font-size: 24pt;
+  font-weight: bold;
+  line-height: 36pt;
+}
+
+div.tartalom {
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 50%;
+  width: 960px;
+  height: 500px;
+  top: -250px;
+  left: -480px;
+  /*border: solid 1px aqua;*/
+}
+
+img.yit {
+  position: absolute;
+  left: 830px;
+  top: 0px;
+  border: none;
+}
+img.koszi {
+  position: absolute;
+  top: 10px;
+  left: 590px;
+}
+img.click {
+  position: absolute;
+  top: 60px;
+  left: 880px;
+}
+img.nyomd {
+  position: absolute;
+  bottom: -35px;
+  left: 105px;
+}
+
+div#panel {
+  position: absolute;
+  top: 101px;
+  left: -350px;
+  margin-left: 50%;
+  width: 700px;
+  height: 300px;
+  /*border: solid 1px aqua;*/
+}
+img.gomb {
+  background-image: url(../image/gomb.png);
+  width: 168px;
+  height: 67px;
+  border: none;
+  position: absolute;
+  margin-left: 50%;
+  left: -84px;
+  bottom: 15px;
+}
+img:hover.gomb {
+  background-image: url(../image/gomb_hover.png);
+}
+
+.original-newtab {
+  position: absolute;
+  top: 35px;
+  right: 10px;
+  font-size: 0.5em;
+  color: white;
+  text-decoration: none;
+}
