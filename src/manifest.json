@@ -6,8 +6,5 @@
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
-  "permissions": [
-    "http://droid242.github.com/duma/pic/*"
-  ],
   "homepage_url": "http://droid242.github.com/duma/"
 }
