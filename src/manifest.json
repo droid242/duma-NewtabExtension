@@ -1,6 +1,6 @@
 {
   "name": "Duma NewTab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Új fül nézet a 'droID-242 duma page' oldalhoz.",
   "chrome_url_overrides": {
