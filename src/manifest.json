@@ -1,6 +1,6 @@
 ﻿{
   "name": "Duma NewTab",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest_version": 2,
   "description": "Új fül nézet a 'droID-242 duma page' oldalhoz.",
   "chrome_url_overrides": {
@@ -9,5 +9,6 @@
   "icons": {
       "128": "assets/image/icon_128.png"
   },
+  "content_security_policy": "script-src 'self' https://apis.google.com  https://plusone.google.com https://ssl.gstatic.com; object-src 'self'",
   "homepage_url": "http://droid242.github.com/duma/"
 }
