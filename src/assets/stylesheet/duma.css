@@ -90,6 +90,12 @@ img.szivacs1 {
    box-shadow: 3px -3px 10px #010;
 }
 
+.gplus_container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 /*.original-newtab {
   position: fixed;
   bottom: -1px;
