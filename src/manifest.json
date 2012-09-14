@@ -10,5 +10,8 @@
       "128": "assets/image/icon_128.png"
   },
   "content_security_policy": "script-src 'self' https://apis.google.com  https://plusone.google.com https://ssl.gstatic.com; object-src 'self'",
-  "homepage_url": "http://droid242.github.com/duma/"
+  "permissions": [
+    "http://duma.folyam.info/"
+  ],
+  "homepage_url": "http://duma.folyam.info"
 }
